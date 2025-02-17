@@ -1,0 +1,7 @@
+# Ignorar archivos sensibles y temporales
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.db
+/secrets.yaml
